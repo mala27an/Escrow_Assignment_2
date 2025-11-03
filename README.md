@@ -33,10 +33,5 @@ After running the above command, open your browser and go to:
 - Real-time updates without page refresh  
 - Multiple users supported with asynchronous dashboard updates  
 
-## 🔑 Test Credentials
-Use the following credentials to log in:  
-- **Email:** admin@example.com  
-- **Password:** password123  
-
 ## 🧑‍💻 Author
 **Mala A N**
